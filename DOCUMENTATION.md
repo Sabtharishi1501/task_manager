@@ -214,7 +214,7 @@ AI Tools Used:
 
 
 ==================================================
-14. AI-GENERATED CODE AND MANUAL WORK
+13. AI-GENERATED CODE AND MANUAL WORK
 ==================================================
 
 AI was used to assist with React components, Firebase integration,
@@ -236,7 +236,7 @@ Manual work included:
 
 
 ==================================================
-15. RESPONSIBLE AI USAGE
+14. RESPONSIBLE AI USAGE
 ==================================================
 
 AI suggestions were treated as assistance rather than automatically
@@ -251,7 +251,7 @@ human review and control.
 
 
 ==================================================
-16. SUBMISSION
+15. SUBMISSION
 ==================================================
 
 GitHub:
