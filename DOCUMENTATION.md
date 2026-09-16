@@ -199,7 +199,7 @@ documentation.
 
 AI Tools Used:
 
-1. Antigravity
+1. Claude
    - React development
    - Component and UI generation
    - Firebase integration
