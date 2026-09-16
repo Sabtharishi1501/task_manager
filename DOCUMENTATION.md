@@ -214,23 +214,6 @@ AI Tools Used:
 
 
 ==================================================
-13. EXAMPLE AI PROMPTS
-==================================================
-
-"Build a simple task management application using React and Vite
-with Google Authentication and Firebase Firestore."
-
-"Analyze this assessment and identify required features,
-ambiguities, assumptions, and documentation."
-
-"Help deploy this React Vite application to Vercel and configure
-Firebase environment variables."
-
-"Google authentication works locally but fails after deployment.
-Help troubleshoot Firebase authorized domains and configuration."
-
-
-==================================================
 14. AI-GENERATED CODE AND MANUAL WORK
 ==================================================
 
@@ -284,8 +267,6 @@ AI Usage:
 Included in this document
 
 
-==================================================
-AUTHOR
-==================================================
 
+AUTHOR
 Sabtharishi S
